@@ -48,3 +48,4 @@ $n_u = 1:10$
 
 ### Variação dos Ajustes das Matrizes de Ganho
 
+![Imagem](Imagens/ISE (200 - VH).png)
