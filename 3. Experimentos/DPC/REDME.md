@@ -48,6 +48,11 @@ $n_u = 1:10$
 
 ### Variação dos Ajustes das Matrizes de Ganho
 
-<img src="/img/contact.png" alt="image" width="300" height="auto">
+<center>
+<figure>
+  <img src="https://github.com/cotabr/Mestrado/blob/299be38beff96f7d1a35d659046d43e1ab340fb7/3.%20Experimentos/DPC/Imagens/THD%20(200%20-%20VH).png" width="300" height="auto"  />
+  <figcaption>An elephant at sunset</figcaption>
+</figure>
+</center>
 
-![Imagens](https://github.com/cotabr/Mestrado/blob/299be38beff96f7d1a35d659046d43e1ab340fb7/3.%20Experimentos/DPC/Imagens/THD%20(200%20-%20VH).png)
+
