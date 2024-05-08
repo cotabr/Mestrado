@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T19:51:28.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="kDJVn3Q4Hq_WTkXutSLM" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T19:51:42.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="CYfYJudPhR3CLUUjwrWb" version="24.3.1" type="github">
   <diagram name="Página-1" id="jFUMzmTcp-UO0v1cyduV">
     <mxGraphModel dx="1700" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -498,7 +498,7 @@
         <mxCell id="bJwlDcDGvbLAupbXf0Zy-587" value="\(V_C\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-247.025" y="14.89" width="25.92" height="12.96" as="geometry" />
         </mxCell>
-        <mxCell id="bJwlDcDGvbLAupbXf0Zy-632" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.947;entryY=0.727;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeColor=#007FFF;" edge="1" parent="1" source="bJwlDcDGvbLAupbXf0Zy-579" target="bJwlDcDGvbLAupbXf0Zy-22">
+        <mxCell id="bJwlDcDGvbLAupbXf0Zy-632" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.947;entryY=0.727;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeColor=#007FFF;flowAnimation=1;flowAnimationDirection=reverse;" edge="1" parent="1" source="bJwlDcDGvbLAupbXf0Zy-579" target="bJwlDcDGvbLAupbXf0Zy-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-120" y="150" as="targetPoint" />
             <Array as="points">
