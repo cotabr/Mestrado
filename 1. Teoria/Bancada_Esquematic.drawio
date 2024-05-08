@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T18:17:08.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="13MzOtNw7FbrEAof5tMe" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T18:18:15.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="8l1-DfXAJtpMwlJSJ3cy" version="24.3.1" type="github">
   <diagram name="Página-1" id="jFUMzmTcp-UO0v1cyduV">
-    <mxGraphModel dx="1224" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1647" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,11 +514,6 @@
         <mxCell id="bJwlDcDGvbLAupbXf0Zy-598" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="bJwlDcDGvbLAupbXf0Zy-597">
           <mxGeometry y="30" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bJwlDcDGvbLAupbXf0Zy-628" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="bJwlDcDGvbLAupbXf0Zy-597" source="bJwlDcDGvbLAupbXf0Zy-599">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="174.06999999999982" y="199.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bJwlDcDGvbLAupbXf0Zy-599" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="bJwlDcDGvbLAupbXf0Zy-597">
           <mxGeometry y="60" width="75" height="20" as="geometry" />
         </mxCell>
@@ -955,22 +950,12 @@
         <mxCell id="bJwlDcDGvbLAupbXf0Zy-48" value="M" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.electric_motor_(dc);fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="600.0699999999999" y="130.035" width="79.93" height="79.93" as="geometry" />
         </mxCell>
-        <mxCell id="bJwlDcDGvbLAupbXf0Zy-622" value="" style="endArrow=none;html=1;rounded=0;entryX=0.002;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="461" y="190" as="sourcePoint" />
-            <mxPoint x="440.0000000000001" y="190.06999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bJwlDcDGvbLAupbXf0Zy-623" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="501" y="180" as="sourcePoint" />
-            <mxPoint x="441" y="180.07" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bJwlDcDGvbLAupbXf0Zy-624" value="" style="endArrow=none;html=1;rounded=0;entryX=0.002;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="541" y="170" as="sourcePoint" />
-            <mxPoint x="440" y="169.93333333333334" as="targetPoint" />
+        <mxCell id="bJwlDcDGvbLAupbXf0Zy-629" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0.059;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bJwlDcDGvbLAupbXf0Zy-599" target="bJwlDcDGvbLAupbXf0Zy-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="67" />
+              <mxPoint x="370" y="193" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
